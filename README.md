@@ -20,5 +20,6 @@ happyntap 希望能开发一款新的驱动来代替 tuntaposx，这个驱动希
 # 技术路线
 
 * zerotier早在几年前就探讨了[采用feth实现Tap驱动的方法](https://www.zerotier.com/2019/08/21/how-zerotier-eliminated-kernel-extensions-on-macos/)，并且好像已经做成了，目前可以参考它们的实现
+* Apple官方文档有关于虚拟网络[vmnet的描述](https://developer.apple.com/documentation/vmnet)
 
 * 更多资料和想法可以移步我们的[论坛](https://github.com/happynlab/happyntap/discussions/categories/ideas) 来讨论实现；
